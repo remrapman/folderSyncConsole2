@@ -1,0 +1,12 @@
+C:\GIT_Repository\folderSyncConsole\folderSyncConsole\bin\x64\Debug\folderSyncConsole.exe.config
+C:\GIT_Repository\folderSyncConsole\folderSyncConsole\obj\x64\Debug\folderSyncConsole.exe
+C:\GIT_Repository\folderSyncConsole\folderSyncConsole\obj\x64\Debug\folderSyncConsole.pdb
+<<<<<<< HEAD
+D:\VS_projects\folderSyncConsole\folderSyncConsole\bin\x64\Debug\folderSyncConsole.exe.config
+D:\VS_projects\folderSyncConsole\folderSyncConsole\obj\x64\Debug\folderSyncConsole.exe
+D:\VS_projects\folderSyncConsole\folderSyncConsole\obj\x64\Debug\folderSyncConsole.pdb
+D:\VS_projects\folderSyncConsole\folderSyncConsole\bin\x64\Debug\folderSyncConsole.exe
+D:\VS_projects\folderSyncConsole\folderSyncConsole\bin\x64\Debug\folderSyncConsole.pdb
+D:\VS_projects\folderSyncConsole\folderSyncConsole\obj\x64\Debug\folderSyncConsole.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 9e577616604180d575c8eadc741cf1e5f95c2618
